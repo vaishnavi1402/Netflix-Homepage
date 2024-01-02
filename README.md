@@ -12,6 +12,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Technologies Used
 HTML
+<br>
 CSS
 ## Screenshots
 <img width="960" alt="Screenshot 2023-12-09 170956" src="https://github.com/charanmayi/netflix-clone/assets/96588672/0a6fb775-4fbe-4513-82e0-f08d63afc215">
